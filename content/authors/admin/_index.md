@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ivanna Porter
+title: IvannaPorter
 
 # Name pronunciation (optional)
  name_pronunciation: ''
