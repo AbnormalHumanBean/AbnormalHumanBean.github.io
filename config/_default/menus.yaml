@@ -12,14 +12,17 @@ main:
     identifier: teaching
     url: /teaching
     weight: 11
+  menu:  
  - name: Research
     identifier: research
     url: /research
     weight: 12
+  menu:    
 - name: Resources
     identifier: resources
     url: /resources
     weight: 13
+  menu:    
 - name: Connect
     url: /connect
     weight: 33
