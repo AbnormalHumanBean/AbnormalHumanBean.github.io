@@ -10,13 +10,8 @@ main:
 
   - name: Teaching
     identifier: teaching
-    url: /teaching
+    url: teaching/
     weight: 12 
-
-    -name: Courses
-    parent: teaching
-    url: teaching#courses
-    weight: 13
 
  - name: Research
     identifier: research
