@@ -4,26 +4,26 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: "Home"
     url: '#about'
     weight: 10
 
-  - name: Teaching
+  - name: "Teaching"
     identifier: teaching
-    pageRef: /teaching
+    url: "/teaching"
     weight: 12 
 
-  - name: Courses
+  - name: "Courses"
     parent: teaching
-    pageRef: /teaching/courses
+    url: "/teaching/courses"
     weight: 1
-  - name: Resources
+  - name: "Resources"
     parent: teaching
-    pageRef: /teaching/resources
+    pageRef: "/teaching/resources"
     weight: 2
 
- - name: Research
-    pageRef: research/
+ - name: "Research"
+    url: '#research'
     weight: 20
 
 
