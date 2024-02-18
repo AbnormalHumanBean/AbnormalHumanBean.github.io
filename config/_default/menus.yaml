@@ -21,10 +21,27 @@ main:
     parent: teaching
     url: "/teaching/resources"
     weight: 2
-  - name: "Research"
-    url: '#research'
-    weight: 20
 
+  - name: "Research"
+    identifier: research
+    url: "/research"
+    weight: 20 
+
+  - name: "Resources"
+    identifier: resources
+    url: "/resources"
+    weight: 40 
+  - name: "Coding"
+    parent: resources
+    url: "/resources/coding"
+    weight: 1 
+  - name: "Misc"
+    parent: resources
+    url: "/resources/misc"
+    weight: 1    
+  - name: "Connect"
+    url: "/connect"
+    weight: 50
 
  
   
