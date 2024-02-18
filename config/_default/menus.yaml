@@ -11,20 +11,40 @@ main:
   - name: Teaching
     identifier: teaching
     url: /teaching
-    weight: 11
-  menu:  
+    weight: 12 
+
+    -name: Courses
+    parent: teaching
+    url: teaching#courses
+    weight: 13
+
  - name: Research
     identifier: research
     url: /research
-    weight: 12
-  menu:    
+    weight: 22
+
+    - name: Work in Progress
+    parent: research
+    url: research#wip
+    weight: 22
+
 - name: Resources
     identifier: resources
     url: /resources
     weight: 13
-  menu:    
+
+  - name: Courses
+    parent: resources
+    url: /post/courses
+    weight: 1
+
+  - name: Coding
+    parent: resources
+    url: /post/coding
+    weight: 2
+
 - name: Connect
-    url: /connect
+    url: '#connect'
     weight: 33
 
  
