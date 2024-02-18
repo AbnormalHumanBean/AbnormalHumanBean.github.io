@@ -19,7 +19,7 @@ main:
     weight: 1
   - name: "Resources"
     parent: teaching
-    pageRef: "/teaching/resources"
+    url: "/teaching/resources"
     weight: 2
 
  - name: "Research"
