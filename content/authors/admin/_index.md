@@ -59,7 +59,7 @@ skills:
       - name: Latex
         description: ''
         percent: 90
-        icon: text-size
+        icon: paragraph text-height e x 
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
