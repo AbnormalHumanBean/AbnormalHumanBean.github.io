@@ -10,26 +10,22 @@ main:
 
   - name: Teaching
     identifier: teaching
-    url: '/teaching'
+    url: /teaching
     weight: 11
 
  - name: Research
     identifier: research
-    url: '/research'
+    url: /research
     weight: 12
 
 - name: Resources
     identifier: resources
-    url: '/resources'
+    url: /resources
     weight: 13
 
 - name: Connect
-    url: '/connect'
+    url: /connect
     weight: 33
-
-- name: CV
-    url: '/CV'
-    weight: 30
 
  
   
