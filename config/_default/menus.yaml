@@ -21,8 +21,7 @@ main:
     parent: teaching
     url: "/teaching/resources"
     weight: 2
-
- - name: "Research"
+  - name: "Research"
     url: '#research'
     weight: 20
 
