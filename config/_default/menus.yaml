@@ -23,7 +23,7 @@ main:
     weight: 2
 
  - name: Research
-    pageRef: /research
+    pageRef: research/
     weight: 20
 
 
