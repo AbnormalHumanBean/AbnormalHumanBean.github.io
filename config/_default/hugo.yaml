@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Ivanna Porter # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: "/" # Website URL
 
 ############################
 ## LANGUAGE
@@ -38,8 +38,8 @@ outputs:
 imaging:
   resampleFilter: Lanczos
   quality: 75
-  anchor: smart
-timeout: 600000
+  anchor: Smart
+timeout: 600000s
 taxonomies:
   tag: tags
   category: categories
