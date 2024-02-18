@@ -5,47 +5,27 @@
 
 main:
   - name: Home
-    url: /
+    url: '#about'
     weight: 10
 
   - name: Teaching
     identifier: teaching
-    url: /teaching
+    pageRef: /teaching
     weight: 12 
 
-    -name: Courses
-    parent: teaching
-    url: teaching#courses
-    weight: 13
-
- - name: Research
-    identifier: research
-    url: /research
-    weight: 22
-
-    - name: Work in Progress
-    parent: research
-    url: research#wip
-    weight: 22
-
-- name: Resources
-    identifier: resources
-    url: /resources
-    weight: 13
-
   - name: Courses
-    parent: resources
-    url: /post/courses
+    parent: teaching
+    pageRef: /teaching/courses
     weight: 1
-
-  - name: Coding
-    parent: resources
-    url: /post/coding
+  - name: Resources
+    parent: teaching
+    pageRef: /teaching/resources
     weight: 2
 
-- name: Connect
-    url: '#connect'
-    weight: 33
+ - name: Research
+    pageRef: /research
+    weight: 20
+
 
  
   

@@ -2,6 +2,8 @@
 header:
   caption: ''
   image: ''
-  title: Research Projects
+  title: Research
   type: page
 ---
+
+Words here
