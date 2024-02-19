@@ -7,9 +7,9 @@
 
 appearance:
   mode: system
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: theme_2
+  theme_night: theme_2
+  font: theme_2
   font_size: L
 # SEO
 
