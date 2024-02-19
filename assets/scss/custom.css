@@ -28,4 +28,8 @@ body {
 
 #about {
   background-color: #000000;
+}
+
+root {
+  --primary: #000000;
 }/*# sourceMappingURL=custom.css.map */
