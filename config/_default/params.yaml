@@ -6,12 +6,12 @@
 # Appearance
 
 appearance:
-  theme_day: my_theme
+  mode: system
+  theme_day: minimal
   theme_night: minimal
   font: minimal
   font_size: L
-
-color: mine
+  color: red
 # SEO
 
 marketing:
