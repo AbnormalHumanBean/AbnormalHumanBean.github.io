@@ -3,16 +3,6 @@ title: "Welcome to Me"
 date: 2024-01-01
 type: landing
 
-sections:
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
- 
   - block: experience
     content:
       title: Experience
