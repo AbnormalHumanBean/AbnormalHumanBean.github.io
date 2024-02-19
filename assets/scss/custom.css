@@ -32,4 +32,8 @@ body {
 
 root {
   --primary: #000000;
+}
+
+#section-markdown {
+  background-color: #000000;
 }/*# sourceMappingURL=custom.css.map */
