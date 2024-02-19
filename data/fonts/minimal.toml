@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&display=swap')
+
+# Font families
+heading_font = "Andika"
+body_font = "Andika"
+nav_font = "Andika"
+mono_font = "Andika"
