@@ -1,0 +1,20 @@
+# Theme metadata
+name = "mine"
+
+[dark]
+  # Primary
+  primary = "#ffffff"
+
+  # Menu
+  menu_primary = "#ff0000"
+  menu_text = "#ffffff"
+  menu_text_active = "##22ff00"
+  menu_title = "#0000ff"
+
+  # Home sections
+  home_section_odd = "#000000"
+  home_section_even = "#000000"
+
+
+  link = "#fce300"
+  link_hover = "#fce300"
