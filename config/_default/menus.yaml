@@ -6,39 +6,39 @@
 main:
   - name: "Home"
     url: '#about'
-    weight: 10
-
-  - name: "Teaching"
-    identifier: teaching
-    url: "/teaching"
-    weight: 12 
-
-  - name: "Courses"
-    parent: teaching
-    url: "/teaching/courses"
     weight: 1
-  - name: "Resources"
-    parent: teaching
-    url: "/teaching/resources"
+
+  - name: "About Me"
+    url: "/about_me"
     weight: 2
 
   - name: "Research"
     identifier: research
     url: "/research"
-    weight: 20 
+    weight: 3
+
+  - name: "Teaching"
+    identifier: teaching
+    url: "/teaching"
+    weight: 4
 
   - name: "Resources"
     identifier: resources
     url: "/resources"
-    weight: 40 
+    weight: 5
+  - name: "Lecturing"
+    parent: resources
+    url: "/resources/lecturing"
+    weight: 1 
   - name: "Coding"
     parent: resources
     url: "/resources/coding"
-    weight: 1 
+    weight: 2 
   - name: "Misc"
     parent: resources
     url: "/resources/misc"
-    weight: 1    
+    weight: 3  
+
   - name: "Connect"
     url: "/connect"
     weight: 50

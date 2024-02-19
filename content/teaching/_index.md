@@ -8,4 +8,3 @@ header:
 ---
  __*Instructor of Record*__
  - **ECO 2305**: Principles of economics
-

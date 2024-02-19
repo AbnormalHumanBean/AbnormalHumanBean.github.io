@@ -1,6 +1,6 @@
 ---
 # Display name
-title: IvannaPorter
+title: Ivanna Porter
 
 # Name pronunciation (optional)
 
@@ -59,7 +59,7 @@ skills:
       - name: Latex
         description: ''
         percent: 90
-        icon: paragraph text-height e x 
+        icon: paragraph
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
