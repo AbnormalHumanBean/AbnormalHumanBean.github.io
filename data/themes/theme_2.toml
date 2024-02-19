@@ -3,21 +3,23 @@ name = "theme_2"
 
 [light]
   # Primary
-  primary = "#fff"
+  primary = "#F4CCCC"
+  background = "#F4CCCC"
 
-  # Menu
   menu_primary = "#fff"
   menu_text = "#010409"
   menu_text_active = "#010409"
   menu_title = "#010409"
 
-  # Home sections
-  home_section_odd = "#000000"
-  home_section_even = "#000000"
+
+  home_section_odd = "#F4CCCC"
+  home_section_even = "#F4CCCC"
 
 [dark]
   # Primary
   primary = "#010409"
+  background =  "#010409"
+  dark_background =  "#010409"
 
   menu_primary = "#010409"
   menu_text = "#F9E5E5"
