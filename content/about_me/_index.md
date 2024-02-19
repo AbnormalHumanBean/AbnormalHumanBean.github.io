@@ -1,9 +1,11 @@
 ---
 title: "Welcome to Me" 
 date: 2024-01-01
-type: "widget_page"
+type: landing
 
+sections:
   - block: experience
+    id: exp
     content:
       title: Experience
       # Date format for experience
@@ -38,5 +40,5 @@ type: "widget_page"
           date_end: '2023-08-01'
           description: Grading exams, met with students, provided supplemental notes
     design:
-      columns: '2'     
+      columns: '1'     
 ---
