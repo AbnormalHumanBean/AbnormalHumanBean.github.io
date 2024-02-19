@@ -3,13 +3,13 @@ name = "theme_2"
 
 [light]
   # Primary
-  primary = "#000000"
+  primary = "#fff"
 
   # Menu
   menu_primary = "#fff"
-  menu_text = "#000000"
-  menu_text_active = "#2962ff"
-  menu_title = "#000000"
+  menu_text = "#010409"
+  menu_text_active = "#010409"
+  menu_title = "#010409"
 
   # Home sections
   home_section_odd = "#000000"
@@ -17,7 +17,15 @@ name = "theme_2"
 
 [dark]
   # Primary
-  primary = "#000000"
+  primary = "#010409"
 
-  link = "#000000"
-  link_hover = "#000000"
+  menu_primary = #010409
+  menu_text = #F9E5E5
+  menu_text_active = #F4CCCC
+  menu_title = #F9E5E5
+
+  home_section_odd = "#010409"
+  home_section_even = "#010409"
+
+  link = "#f9e5e5"
+  link_hover = "#F4CCCC"
