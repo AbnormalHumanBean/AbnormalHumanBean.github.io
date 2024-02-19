@@ -32,6 +32,27 @@ body {
 
 root {
   --primary: #000000;
+  --blue:#000000;
+  --indigo:#000000;
+  --purple:#000000;
+  --pink:#000000;
+  --red:#000000;
+  --orange:#000000;
+  --yellow:#000000;
+  --green:#000000;
+  --teal:#000000;
+  --cyan:#000000;
+  --white:#fff;
+  --gray:#000000;
+  --gray-dark:#000000;
+  --primary:#000000;
+  --secondary:#000000;
+  --success:#000000;
+  --info:#000000;
+  --warning:#000000;
+  --danger:#000000;
+  --light:#fff;
+  --dark:#000000;
 }
 
 #section-markdown {
@@ -40,4 +61,16 @@ root {
 
 body {
   background-color: #000000;
+}
+
+top {
+  background-color: #000000;
+}
+
+base {
+  background-color: #000000;
+}
+
+navibar-main {
+  background-color: black;
 }/*# sourceMappingURL=custom.css.map */
