@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Me" 
-
+type: landing
 
 sections:
   - block: skills
