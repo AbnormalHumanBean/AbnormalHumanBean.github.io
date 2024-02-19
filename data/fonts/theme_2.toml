@@ -2,11 +2,11 @@
 name = "theme_2"
 
 # Optional Google font URL
-google_fonts = "family=Andika:ital,wght@0,400;0,700;1,400;1,700"
+google_fonts = "family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Anonymous+Pro:wght@400;700"
 
 # Font families
-heading_font = "Roboto"
-body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+heading_font = "Andika"
+body_font = "Andika"
+nav_font = "Andika"
+mono_font = "Anonymous Pro"
 
