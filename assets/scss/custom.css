@@ -30,6 +30,14 @@ body {
   background-color: #000000;
 }
 
+#about {
+  background-color: #000000;
+}
+
+theme-color {
+  background-color: #000000;
+}
+
 root {
   --primary: #000000;
   --blue:#000000;
