@@ -1,9 +1,10 @@
 ---
+widget: experience
+headless: true
+weight: 10
 title: My experience
-type: landing
-sections:
-- block: experience
-  content:
+
+experience:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format

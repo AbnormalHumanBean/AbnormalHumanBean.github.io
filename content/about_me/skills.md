@@ -1,7 +1,10 @@
 ---
+widget: features
+headless: true
+weight: 20
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+feature:
   - name: Technical
     items:
       - name: R
