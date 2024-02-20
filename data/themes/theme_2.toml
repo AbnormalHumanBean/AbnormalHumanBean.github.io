@@ -22,9 +22,9 @@ name = "theme_2"
   dark_background =  "#070B10"
 
   menu_primary = "#070B10"
-  menu_text = "#F9E5E5"
+  menu_text = "#F4CCCC"
   menu_text_active = "#F4CCCC"
-  menu_title = "#F9E5E5"
+  menu_title = "#F4CCCC"
 
   home_section_odd = "#070B10"
   home_section_even = "#070B10"
