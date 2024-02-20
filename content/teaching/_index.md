@@ -5,8 +5,6 @@ header:
   image: ''
   title: Courses
   type: page
-  design:
-  text_color_light: false
 ---
 ### ECO 2305: Principles of Economics
 
