@@ -21,13 +21,14 @@ name = "theme_2"
   background =  "#070B10"
   dark_background =  "#070B10"
 
-  menu_primary = "#070B10"
-  menu_text = "#F4CCCC"
-  menu_text_active = "#F4CCCC"
-  menu_title = "#F4CCCC"
+  dark_menu_primary = "#070B10"
+  dark_menu_text = "#F4CCCC"
+  dark_menu_text_active = "#F4CCCC"
+  dark_menu_title = "#F4CCCC"
 
-  home_section_odd = "#070B10"
-  home_section_even = "#070B10"
+  dark_home_section_odd = "#070B10"
+  dark_home_section_even = "#070B10"
+  
 
-  link = "#F9E5E5"
-  link_hover = "#F4CCCC"
+  dark_link = "#F9E5E5"
+  dark_link_hover = "#F4CCCC"
