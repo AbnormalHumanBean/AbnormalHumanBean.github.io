@@ -1,15 +1,8 @@
 ---
-title: "Welcome to Me" 
-date: 2024-01-01
+title: My experience
 type: landing
-
 sections:
-  - block: about.biography
-    content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin     
-  - block: experience
+- block: experience
     content:
       title: Experience
       # Date format for experience
