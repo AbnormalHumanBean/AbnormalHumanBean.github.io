@@ -1,10 +1,10 @@
 ---
-widget: features
+widget: skills
 headless: true
 weight: 20
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-feature:
+skills:
   - name: Technical
     items:
       - name: R
@@ -31,5 +31,4 @@ feature:
         percent: 100
         icon: Z
         icon_pack: fas
-
 ---
