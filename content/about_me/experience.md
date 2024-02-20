@@ -3,9 +3,9 @@ widget: experience
 headless: true
 weight: 10
 title: My experience
+date_format: Jan 2006
 
 experience:
-      items:
         - title: Graduate Instructor
           company: Texas Tech University
           company_url: ''
