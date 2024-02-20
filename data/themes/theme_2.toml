@@ -26,8 +26,8 @@ name = "theme_2"
   menu_text_active = "#F4CCCC"
   menu_title = "#F9E5E5"
 
-  home_section_odd = "#010409"
-  home_section_even = "#010409"
+  home_section_odd = "#0D1117"
+  home_section_even = "#0D1117"
 
   link = "#F9E5E5"
   link_hover = "#F4CCCC"
