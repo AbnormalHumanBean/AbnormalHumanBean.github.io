@@ -1,6 +1,6 @@
 ---
 title: My experience
-
+type: landing
 sections:
 - block: experience
   content:
