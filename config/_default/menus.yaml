@@ -9,7 +9,7 @@ main:
     weight: 1
 
   - name: "About Me"
-    url: "/about_me"
+    url: "about_me/"
     weight: 2
 
   - name: "Research"
