@@ -17,17 +17,17 @@ name = "theme_2"
 
 [dark]
   # Primary
-  primary = "#0D1117"
-  background =  "#0D1117"
-  dark_background =  "#0D1117"
+  primary = "#070B10"
+  background =  "#070B10"
+  dark_background =  "#070B10"
 
-  menu_primary = "#0D1117"
+  menu_primary = "#070B10"
   menu_text = "#F9E5E5"
   menu_text_active = "#F4CCCC"
   menu_title = "#F9E5E5"
 
-  home_section_odd = "#0D1117"
-  home_section_even = "#0D1117"
+  home_section_odd = "#070B10"
+  home_section_even = "#070B10"
 
   link = "#F9E5E5"
   link_hover = "#F4CCCC"
