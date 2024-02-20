@@ -4,14 +4,12 @@ date: 2024-01-01
 type: landing
 
 sections:
-- block: about.biography
-    id: about
+  - block: about.biography
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin     
   - block: experience
-    id: exp
     content:
       title: Experience
       # Date format for experience
