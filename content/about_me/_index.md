@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Me" 
 date: 2024-01-01
-type: widget_page
+type: landing
 
 sections:
   - block: about.biography
