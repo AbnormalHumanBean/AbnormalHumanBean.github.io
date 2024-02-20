@@ -9,7 +9,7 @@ experience:
         - title: Graduate Instructor
           company: Texas Tech University
           company_url: ''
-          company_logo: icon
+          company_logo: 
           location: Texas
           date_start: '2023-08-01'
           date_end: '2023-08-01'
@@ -23,7 +23,7 @@ experience:
         - title: Teaching Assisent  
           company: Texas Tech University
           company_url: ''
-          company_logo: icon
+          company_logo: 
           location: Texas
           date_start: '2021-08-01'
           date_end: '2023-08-01'
