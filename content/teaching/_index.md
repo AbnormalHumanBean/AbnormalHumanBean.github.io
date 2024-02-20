@@ -6,5 +6,24 @@ header:
   title: Courses
   type: page
 ---
- __*Instructor of Record*__
- - **ECO 2305**: Principles of economics
+### ECO 2305: Principles of Economics
+
+___
+
+*Instructor of Record:*
+
+- Fall 2023
+- Spring 2024
+
+*Teaching Assistant:*
+
+- Spring 2022
+
+### Various ECO courses
+
+___
+
+*Teaching Assistant:*
+
+- ECO 3336: Environmental Economics: Fall 2021
+- ECO 3312: Intermediate Micro Economics: Fall 2022
