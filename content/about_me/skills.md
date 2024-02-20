@@ -3,8 +3,6 @@ widget: skills
 headless: true
 weight: 20
 author: admin
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
