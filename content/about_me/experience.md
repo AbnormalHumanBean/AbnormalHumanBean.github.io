@@ -1,9 +1,9 @@
 ---
 title: My experience
-type: landing
+
 sections:
 - block: experience
-    content:
+  content:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
@@ -36,6 +36,6 @@ sections:
           date_start: '2021-08-01'
           date_end: '2023-08-01'
           description: Grading exams, met with students, provided supplemental notes
-    design:
+design:
       columns: '1'     
 ---
