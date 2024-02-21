@@ -47,6 +47,7 @@ sections:
           description: Grading exams, met with students, provided supplemental notes
     design:
       columns: '1'
+      view: compact
       background:
       gradient_start: '#3D080C'
       gradient_end: '#070B10'
