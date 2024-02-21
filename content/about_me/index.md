@@ -18,5 +18,4 @@ sections:
     design:
       columns: '2'
       view: compact
-      spacing: padding = ["0px", "0px", "0px", "0px"]
 ---
