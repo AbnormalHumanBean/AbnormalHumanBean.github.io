@@ -31,3 +31,8 @@ name = "theme_2"
 
   link = "#F9E5E5"
   link_hover = "#F4CCCC"
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["0", "0", "0", "0"]
+
