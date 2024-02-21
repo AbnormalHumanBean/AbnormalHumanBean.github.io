@@ -6,7 +6,7 @@ type: landing
 has_gallery: false
 
 sections:
-  - block: about.biography
+  - block: about.avatar
     id: about
     content:
       title: Biography
