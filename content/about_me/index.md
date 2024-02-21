@@ -48,8 +48,5 @@ sections:
     design:
       columns: '1'
       view: compact
-      background:
-      gradient_start: '#3D080C'
-      gradient_end: '#070B10'
-      gradient_angle: 90
+      css_style: 'my_experience.scss'
 ---

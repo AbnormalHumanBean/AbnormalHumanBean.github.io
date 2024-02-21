@@ -1,0 +1,46 @@
+/*************************************************
+ * Experience
+ **************************************************/
+
+ .exp-title {
+    text-transform: none !important;
+  }
+  
+  .exp-company {
+    font-weight: normal !important;
+    text-transform: none !important;
+  }
+  
+  .exp-meta {
+    font-size: 0.8rem;
+  }
+  
+  .experience .card-text,
+  .experience .card-text p {
+    color: #000 !important;
+    font-size: 0.75rem !important;
+  }
+  
+  .dark .experience .text-muted {
+    color:#F4CCCC !important;
+  }
+  
+  .dark .experience .card-text,
+  .dark .experience .card-text p {
+    color: #F4CCCC !important;
+  }
+  
+  // For a UL after P, remove the spacing between (P margin-bottom) without affecting any nested lists.
+  .card .card-text p + ul {
+    margin-top: -1rem;
+    margin-bottom: 0;
+  }
+  
+  .experience .m-2 .border,
+  .experience .col.border-right {
+    border-color: $sta-primary !important;
+  }
+  
+  .experience .m-2 .border.exp-fill {
+    background-color: $sta-primary !important;
+  }
