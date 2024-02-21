@@ -40,8 +40,4 @@ primary = "#070B10"
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["0", "0", "0", "0"]
 
-[background]
-gradient_start: '#3D080C'
-      gradient_end: '#070B10'
-      gradient_angle: 90
 
