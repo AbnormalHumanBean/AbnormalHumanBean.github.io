@@ -1,18 +1,19 @@
 .dark {
-    color: #F4CCCC
+    color: #F4CCCC !important;
+    background-color: #070B10 !important;
   }
 
   .dark h1 { color:#F4CCCC; }
 
+  [class^="dark"] {
+    color: #F4CCCC !important;
+    background-color: #070B10 !important;
+  }
 
  .dark * {
     color: #F4CCCC !important;
     background-color: #070B10 !important;
   }
-  .card {
-    color: #F4CCCC !important;
-    background-color: #070B10 !important;
-  }
-
+ 
   .home-section {
     padding: 0%;}
