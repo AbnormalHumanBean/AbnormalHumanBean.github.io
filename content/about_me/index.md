@@ -38,25 +38,5 @@ sections:
           description: Grading exams, met with students, provided supplemental notes
     design:
       columns: '1' 
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-  - block: accomplishments
-    content:
-      items:
-      - certificate_url: https://www.datacamp.com
-        date_end: '2020-12-21'
-        date_start: '2020-07-01'
-        description: ''
-        organization: DataCamp
-        organization_url: https://www.datacamp.com
-        title: 'Object-Oriented Programming in R'
-        url: ''
-    design:
-      columns: '1'
+
 ---
