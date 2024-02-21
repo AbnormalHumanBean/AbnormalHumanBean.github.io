@@ -1,6 +1,7 @@
 # Theme metadata
 name = "theme_2"
 
+primary = "#070B10"
 [light]
   # Primary
   primary = "#F4CCCC"
