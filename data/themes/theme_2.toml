@@ -15,6 +15,9 @@ name = "theme_2"
   home_section_odd = "#F4CCCC"
   home_section_even = "#F4CCCC"
 
+  link = "#070B10"
+  link_hover = "#070B10"
+
 [dark]
   # Primary
   primary = "#070B10"
