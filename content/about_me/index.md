@@ -46,5 +46,9 @@ sections:
           date_end: '2023-08-01'
           description: Grading exams, met with students, provided supplemental notes
     design:
-      columns: '1' 
+      columns: '1'
+      background:
+      gradient_start: '#3D080C'
+      gradient_end: '#070B10'
+      gradient_angle: 90
 ---
